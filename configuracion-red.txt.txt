@@ -1,0 +1,12 @@
+CONFIGURACION DE RED
+
+WAN:
+IP automática ISP
+
+LAN:
+IP: 192.168.1.1
+Máscara: 255.255.255.0
+
+DNS:
+8.8.8.8
+1.1.1.1
