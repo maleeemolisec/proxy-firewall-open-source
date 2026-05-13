@@ -4,3 +4,4 @@ POLITICAS DE BLOQUEO
 - Descargas P2P bloqueadas
 - Sitios peligrosos restringidos
 - Acceso administrativo solo para administrador
+- Bloqueo de todas las IAs
