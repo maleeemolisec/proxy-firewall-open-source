@@ -1,0 +1,6 @@
+POLITICAS DE BLOQUEO
+
+- Redes sociales bloqueadas en horario escolar
+- Descargas P2P bloqueadas
+- Sitios peligrosos restringidos
+- Acceso administrativo solo para administrador
